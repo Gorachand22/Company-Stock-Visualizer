@@ -1,4 +1,4 @@
-```
+
 # Company Stock Visualizer
 
 Welcome to the Company Stock Visualizer! This Streamlit web application allows you to visualize the stock data of various companies.
