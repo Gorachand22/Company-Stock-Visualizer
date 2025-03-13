@@ -1,7 +1,7 @@
 
 # Company Stock Visualizer
 
-[Deploy Link]('https://company-stock-visualizer-c2s3sep8e5amud7cpqtkjk.streamlit.app/')
+[Deploy Link](https://company-stock-visualizer-c2s3sep8e5amud7cpqtkjk.streamlit.app/)
 
 Welcome to the Company Stock Visualizer! This Streamlit web application allows you to visualize the stock data of various companies.
 
